@@ -1,0 +1,352 @@
+[{
+  "lat": 34.0522342
+  , "lon": -118.2436849
+  , "locality": {
+    "short_name": "לוס אנג'לס"
+    , "long_name": "לוס אנג'לס"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "CA"
+    , "long_name": "קליפורניה"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "לוס אנג'לס"
+    , "long_name": "לוס אנג'לס"
+  }
+  , "country": {
+    "short_name": "US"
+    , "long_name": "ארצות הברית"
+  }
+}, {
+  "lat": 51.5073509
+  , "lon": -0.1277583
+  , "locality": {
+    "short_name": "לונדון"
+    , "long_name": "לונדון"
+  }
+  , "country": {
+    "short_name": "GB"
+    , "long_name": "בריטניה"
+  }
+}, {
+  "lat": -37.814107
+  , "lon": 144.96328
+  , "locality": {
+    "short_name": "מלבורן"
+    , "long_name": "מלבורן"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "VIC"
+    , "long_name": "ויקטוריה"
+  }
+  , "country": {
+    "short_name": "AU"
+    , "long_name": "אוסטרליה"
+  }
+}, {
+  "lat": 40.7127837
+  , "lon": -74.0059413
+  , "locality": {
+    "short_name": "ניו יורק"
+    , "long_name": "ניו יורק"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "NY"
+    , "long_name": "ניו יורק"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "New York County"
+    , "long_name": "New York County"
+  }
+  , "country": {
+    "short_name": "US"
+    , "long_name": "ארצות הברית"
+  }
+}, {
+  "lat": 52.3702157
+  , "lon": 4.895167900000001
+  , "locality": {
+    "short_name": "אמסטרדם"
+    , "long_name": "אמסטרדם"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "NH"
+    , "long_name": "נורד-הולנד"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "Government of Amsterdam"
+    , "long_name": "Government of Amsterdam"
+  }
+  , "country": {
+    "short_name": "NL"
+    , "long_name": "הולנד"
+  }
+}, {
+  "lat": -33.8674869
+  , "lon": 151.2069902
+  , "locality": {
+    "short_name": "סידני"
+    , "long_name": "סידני"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "NSW"
+    , "long_name": "ניו סאות' וויילס"
+  }
+  , "country": {
+    "short_name": "AU"
+    , "long_name": "אוסטרליה"
+  }
+}, {
+  "lat": 32.0852999
+  , "lon": 34.78176759999999
+  , "locality": {
+    "short_name": "ת\"א"
+    , "long_name": "תל אביב יפו"
+  }
+  , "country": {
+    "short_name": "IL"
+    , "long_name": "ישראל"
+  }
+}, {
+  "lat": 25.0476643
+  , "lon": 55.1817407
+  , "locality": {
+    "short_name": "דובאי"
+    , "long_name": "דובאי"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "דובאי"
+    , "long_name": "דובאי"
+  }
+  , "country": {
+    "short_name": "AE"
+    , "long_name": "איחוד האמירויות הערביות"
+  }
+}, {
+  "lat": 48.856614
+  , "lon": 2.3522219
+  , "locality": {
+    "short_name": "פריס"
+    , "long_name": "פריס"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "IDF"
+    , "long_name": "איל-דה-פרנס"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "75"
+    , "long_name": "פריס"
+  }
+  , "country": {
+    "short_name": "FR"
+    , "long_name": "צרפת"
+  }
+}, {
+  "lat": -22.9082998
+  , "lon": -43.1970773
+  , "locality": {
+    "short_name": "ריו דה ז'ניירו"
+    , "long_name": "ריו דה ז'ניירו"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "RJ"
+    , "long_name": "ריו דה ז'ניירו"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "ריו דה ז'ניירו"
+    , "long_name": "ריו דה ז'ניירו"
+  }
+  , "country": {
+    "short_name": "BR"
+    , "long_name": "ברזיל"
+  }
+}, {
+  "lat": 41.3850639
+  , "lon": 2.1734035
+  , "locality": {
+    "short_name": "ברצלונה"
+    , "long_name": "ברצלונה"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "CT"
+    , "long_name": "קטלוניה"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "B"
+    , "long_name": "ברצלונה"
+  }
+  , "country": {
+    "short_name": "ES"
+    , "long_name": "ספרד"
+  }
+}, {
+  "lat": 41.8723889
+  , "lon": 12.4801802
+  , "locality": {
+    "short_name": "רומא"
+    , "long_name": "רומא"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "לציו"
+    , "long_name": "לציו"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "RM"
+    , "long_name": "רומא"
+  }
+  , "country": {
+    "short_name": "IT"
+    , "long_name": "איטליה"
+  }
+}, {
+  "lat": -36.8484597
+  , "lon": 174.7633315
+  , "locality": {
+    "short_name": "אוקלנד"
+    , "long_name": "אוקלנד"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "אוקלנד"
+    , "long_name": "אוקלנד"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "Auckland"
+    , "long_name": "Auckland"
+  }
+  , "country": {
+    "short_name": "NZ"
+    , "long_name": "ניו-זילנד"
+  }
+}, {
+  "lat": -34.6037232
+  , "lon": -58.3815931
+  , "locality": {
+    "short_name": "CF"
+    , "long_name": "בואנוס איירס"
+  }
+  , "country": {
+    "short_name": "AR"
+    , "long_name": "ארגנטינה"
+  }
+}, {
+  "lat": -33.9248685
+  , "lon": 18.4240553
+  , "locality": {
+    "short_name": "קייפטאון"
+    , "long_name": "קייפטאון"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "WC"
+    , "long_name": "ווסטרן קייפ"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "Cape Town"
+    , "long_name": "Cape Town"
+  }
+  , "country": {
+    "short_name": "ZA"
+    , "long_name": "דרום אפריקה"
+  }
+}, {
+  "lat": 52.52000659999999
+  , "lon": 13.404954
+  , "locality": {
+    "short_name": "ברלין"
+    , "long_name": "ברלין"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "ברלין"
+    , "long_name": "ברלין"
+  }
+  , "country": {
+    "short_name": "DE"
+    , "long_name": "גרמניה"
+  }
+}, {
+  "lat": 53.3498053
+  , "lon": -6.2603097
+  , "locality": {
+    "short_name": "דבלין"
+    , "long_name": "דבלין"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "Dublin"
+    , "long_name": "Dublin"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "Dublin City"
+    , "long_name": "Dublin City"
+  }
+  , "country": {
+    "short_name": "IE"
+    , "long_name": "אירלנד"
+  }
+}, {
+  "lat": 59.32932349999999
+  , "lon": 18.0685808
+  , "locality": {
+    "short_name": "שטוקהולם"
+    , "long_name": "שטוקהולם"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "מחוז סטוקהולם"
+    , "long_name": "מחוז סטוקהולם"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "Stockholm"
+    , "long_name": "Stockholm"
+  }
+  , "country": {
+    "short_name": "SE"
+    , "long_name": "שוודיה"
+  }
+}, {
+  "lat": 55.6760968
+  , "lon": 12.5683371
+  , "locality": {
+    "short_name": "kbh"
+    , "long_name": "קופנהגן"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "Capital Region of Denmark"
+    , "long_name": "Capital Region of Denmark"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "K?benhavn"
+    , "long_name": "K?benhavn"
+  }
+  , "country": {
+    "short_name": "DK"
+    , "long_name": "דנמרק"
+  }
+}, {
+  "lat": 25.7890972
+  , "lon": -80.2040435
+  , "locality": {
+    "short_name": "מיאמי"
+    , "long_name": "מיאמי"
+  }
+  , "administrative_area_level_1": {
+    "short_name": "FL"
+    , "long_name": "פלורידה"
+  }
+  , "administrative_area_level_2": {
+    "short_name": "מחוז מיאמי-דייד"
+    , "long_name": "מחוז מיאמי-דייד"
+  }
+  , "country": {
+    "short_name": "US"
+    , "long_name": "ארצות הברית"
+  }
+}, {
+  "lat": 41.00527
+  , "lon": 28.97696
+  , "locality": {
+    "short_name": "איסטנבול"
+    , "long_name": "איסטנבול"
+  }
+  , "country": {
+    "short_name": "TR"
+    , "long_name": "טורקיה"
+  }
+}]
