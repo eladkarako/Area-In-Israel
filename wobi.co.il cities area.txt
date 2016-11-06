@@ -1,3 +1,9 @@
+בחירת רחוב:
+נניח שבחרנו נתניה רחוב סלומון
+https://www.wobi.co.il/_ajax/ajax.index.php?q=%D7%A1%D7%9C%D7%95%D7%9E%D7%95%D7%9F&limit=10&timestamp=1478443035915&file=street&city=1244
+סלומון יואל|90199
+
+בחירת עיר:
 // https://www.wobi.co.il/_ajax/ajax.index.php?q=&limit=1118&timestamp=1478439517280&file=city
 
 שחר|1
