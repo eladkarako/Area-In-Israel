@@ -1,0 +1,20 @@
+https://www.gov.il/api/mops/FirearmsLicense/api/mops/he/FirearmsLicense/getCitiesList
+
+........
+{"cityID":246,"cityName":"נתיבות","districtID":null,"districtName":null,"municipalityID":null,"municipalityName":null},{"cityID":7400,"cityName":"נתניה","districtID":null,"districtName":null,"municipalityID":null,"municipalityName":null},
+........
+
+
+https://www.gov.il/api/mops/FirearmsLicense/api/mops/he/FirearmsLicense/getStreetsForCity/XXXX
+
+
+XXXX is cityID
+
+for example
+
+
+https://www.gov.il/api/mops/FirearmsLicense/api/mops/he/FirearmsLicense/getStreetsForCity/7400
+
+.........
+{"streetID":1069,"streetName":"סיגלית"},{"streetID":1229,"streetName":"סיוון"},{"streetID":248,"streetName":"סילברשטיין צבי"},{"streetID":924,"streetName":"סיני"},{"streetID":822,"streetName":"סירקין"},{"streetID":331,"streetName":"סלומון יואל"},{"streetID":416,"streetName":"סמ סטודיו"},{"streetID":636,"streetName":"סמ עולי סידקוב"},{"streetID":866,"streetName":"סמ פיקסלר"},
+.......
